@@ -7,3 +7,9 @@ Version 2.0
 -Added a working UI
 
 -Added an option to calculate weight lift
+
+Version 3.0
+
+-Changed the names of the files.
+
+-Added an xp calculator in .py and .exe form.
